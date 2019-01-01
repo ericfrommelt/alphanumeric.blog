@@ -25,21 +25,12 @@ img {
   display: block;
 }
 
-ol, ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-figure {
-  margin: 0;
-}
-
 body {
   position: relative;
   margin: 0;
-  padding-bottom: 32rem;
   min-height: 100%;
-
-  background-color: salmon;
+  background-color: white;
+  font-family: "Ringside Regular SSm A", "Ringside Regular SSm B";
+  font-style: normal;
+  font-weight: 400;
 }
