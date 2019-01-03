@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Alphanumerrric`,
+    title: `Alphanumeric`,
   },
   plugins: [
     {
